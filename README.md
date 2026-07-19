@@ -1,5 +1,6 @@
 # Physarum-Labyrinth-Race-
 So I had this university task to create a physarum simulation and they told us to look at it in a creative way... I ended up doin labyrinth races 
+It's all inspired by https://www.youtube.com/watch?v=X-iSQQgOd1A
 
 A single slime mold simulation - [Video Simulation](https://files.catbox.moe/fxqldu.gif)
 
